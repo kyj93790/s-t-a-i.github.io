@@ -3,10 +3,12 @@ title = "Internship (Pre-MSc)"
 date = "2025-12-21"
 short_description = ""
 status = "Open"
+weight = 4
 +++
 
 1. Send an email to the relevant PhD student (cc: [Seong Joon Oh](mailto:coallaoh@gmail.com)) with your CV and research statement attached
 2. Coffee chat with the PhD student
-3. Interview: Same structure as MSc and PhD. Available current members join the interview.
+3. Interview: 30 min + 30 min with the PhD student (Seong Joon participates optionally)
+   - *First half*: Present your prior work (aim for 10 minutes, leaving 20 minutes for discussion)
+   - *Second half*: Discuss future research ideas at the intersection of your expertise and our vision
 4. Offer
-

@@ -3,6 +3,7 @@ title = "MSc"
 date = "2025-12-22"
 short_description = ""
 status = "Open"
+weight = 3
 +++
 
 1. Send an email to [Seong Joon Oh](mailto:coallaoh@gmail.com) with your CV and research statement attached
