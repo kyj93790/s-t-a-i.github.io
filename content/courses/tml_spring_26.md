@@ -3,7 +3,7 @@ title = "Trustworthy Machine Learning"
 semester = "Spring Semester 2026"
 university = "KAIST AI"
 image = "tml-compass.jpg"
-sort_position = 7
+sort_position = 4
 description = "Trustworthy machine learning is one of the remaining hurdles for AI deployment. Without trust, AI cannot transform our means of production. Trustworthy AI is the key to AI-led productivity boosts. As machine learning technology gets applied to actual products and solutions, new challenges have emerged. Foundation models struggle to generalise compositionally to novel combinations of concepts. Models tend to be overconfident on novel types of data. Models cannot communicate the rationale behind their decisions effectively to end users like medical staff. Collectively, we face a trustworthiness issue with current machine learning technology. A large fraction of machine learning research today is dedicated to Trustworthy Machine Learning (TML). This course covers theoretical and technical background for key topics in TML. We conduct a critical review of important classical and contemporary research papers and provide hands-on practicals to implement TML techniques."
 +++
 
